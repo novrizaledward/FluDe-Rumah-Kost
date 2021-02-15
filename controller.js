@@ -4,5 +4,5 @@ var response = require("./res");
 var connection = require("./connection");
 
 exports.index = function(req, res) {
-    response.ok("Aplikasi Sedang Berjalan !");
+    response.ok("Welcome Rest API Rumah Kost Menggunakan Node JS", res);
 };

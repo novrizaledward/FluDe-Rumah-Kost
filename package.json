@@ -1,0 +1,28 @@
+{
+  "name": "fluderumahkost",
+  "version": "1.0.0",
+  "description": "Rest API untuk rumah kost menggunakan flutter dan Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novrizaledward/FluDe-Rumah-Kost.git"
+  },
+  "keywords": [
+    "Rest",
+    "API",
+    "Node",
+    "Js",
+    "Flutter",
+    "Rumah",
+    "Kost"
+  ],
+  "author": "Novrizal Edward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novrizaledward/FluDe-Rumah-Kost/issues"
+  },
+  "homepage": "https://github.com/novrizaledward/FluDe-Rumah-Kost#readme"
+}
